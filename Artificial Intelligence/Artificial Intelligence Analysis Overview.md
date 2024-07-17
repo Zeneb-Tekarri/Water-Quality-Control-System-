@@ -8,9 +8,9 @@ Artificial Intelligence (AI) plays a pivotal role in the water quality supervisi
     - **Types of Algorithms**: Various ML algorithms are employed, including Support Vector Machines (SVM), K-Nearest Neighbors (KNN), and Random Forests (RF).
 
 2. **Key Algorithms and Models**:
-    - **Support Vector Machines (SVM)**: SVMs are powerful for classification tasks. They work by finding the hyperplane that best separates different classes in the data. They are effective in high-dimensional spaces and are robust to overfitting, especially in cases where the number of dimensions exceeds the number of samples【19:3†source】.
-    - **K-Nearest Neighbors (KNN)**: KNN is a simple, non-parametric algorithm used for classification and regression. It operates by finding the 'k' closest data points (neighbors) and making predictions based on the majority class among the neighbors. It's particularly useful for its simplicity and effectiveness in small datasets【19:3†source】.
-    - **Random Forest (RF)**: RF is an ensemble learning method that constructs multiple decision trees during training and outputs the mode of the classes for classification tasks. It is known for its high accuracy, ability to handle large datasets, and robustness to overfitting【19:3†source】.
+    - **Support Vector Machines (SVM)**: SVMs are powerful for classification tasks. They work by finding the hyperplane that best separates different classes in the data. They are effective in high-dimensional spaces and are robust to overfitting, especially in cases where the number of dimensions exceeds the number of samples.
+    - **K-Nearest Neighbors (KNN)**: KNN is a simple, non-parametric algorithm used for classification and regression. It operates by finding the 'k' closest data points (neighbors) and making predictions based on the majority class among the neighbors. It's particularly useful for its simplicity and effectiveness in small datasets.
+    - **Random Forest (RF)**: RF is an ensemble learning method that constructs multiple decision trees during training and outputs the mode of the classes for classification tasks. It is known for its high accuracy, ability to handle large datasets, and robustness to overfitting.
 
 3. **Data Handling and Processing**:
     - **Data Preprocessing**: Involves cleaning the data, handling missing values, and normalizing the data to ensure it is suitable for ML algorithms.
