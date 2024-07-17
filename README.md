@@ -29,4 +29,4 @@ This project aims to develop a robust, precise, and intelligent system for monit
 - **Operational Efficiency**: Improves the efficiency of water management processes through real-time data access and advanced analytics.
 
 #### Conclusion
-The developed water quality control system represents a significant advancement for Sagemcom. It offers a complete, innovative solution for monitoring and maintaining water quality, ensuring high service quality and effective water management【7:0†source】【7:1†source】【7:2†source】【7:4†source】.
+The developed water quality control system represents a significant advancement for Sagemcom. It offers a complete, innovative solution for monitoring and maintaining water quality, ensuring high service quality and effective water management.
